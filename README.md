@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hola 👋
 
-<!--
-**IZeyth/Izeyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Lenguajes de programacion
+![Java](https://img.shields.io/badge/-Java-FF0000?style=flat&logo=java&logoColor=red)
+![C++](https://img.shields.io/badge/-C%2b%2b-003D8F?style=flat&logo=C%2b%2b&logoColor=red)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=red)
+![Pseint](https://img.shields.io/badge/-Pseint-000000?style=flat&logo=Pseint&logoColor=red)
+![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=Php&logoColor=red)
 
-Here are some ideas to get you started:
+### Bases de Datos
+![Mysql](https://img.shields.io/badge/-Mysql-000000?style=flat&logo=Myqql&logoColor=red)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend:
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML&logoColor=red)
+
+
